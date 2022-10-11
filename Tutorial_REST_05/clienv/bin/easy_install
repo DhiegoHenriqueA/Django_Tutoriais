@@ -1,4 +1,4 @@
-#!/home/aluno/Django_Tutoriais/Tutorial_REST_05/clienv/bin/python3
+#!/home/aluno/Público/tutoriaisDjango/Tutorial_REST_05/clienv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
